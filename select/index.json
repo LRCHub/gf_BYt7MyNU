@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "ONE LIFE(Rock Stock Version)",
+  "base_artist": "the pillows",
+  "createdAt": "2026-03-18T12:30:44.238074Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ONE LIFE (Rock Stock version)",
+      "artist": "the pillows",
+      "has_synced": false,
+      "path": "select/01_ONE_LIFE_(Rock_Stock_version)_the_pillows.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ONE LIFE (Rock Stock Version)",
+      "artist": "the pillows",
+      "has_synced": false,
+      "path": "select/pl_01_ONE_LIFE_(Rock_Stock_Version)_the_pillows.txt"
+    }
+  ]
+}
